@@ -1,0 +1,74 @@
+
+
+.swimming-wrapper h1,
+.swimming-wrapper h2,
+.swimming-wrapper h3 {
+    margin-bottom: 0.5rem;
+}
+
+.swimming-wrapper h1,
+.swimming-wrapper h3 {
+    text-align: center;
+}
+
+.swimming-wrapper h2,
+.swimming-wrapper h3 {
+    margin-top: 2rem;
+}
+
+.swimming-wrapper button {
+    margin: 0 auto;
+    display: block;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    border: none;
+    background-color: #46b4e6;
+    color: white;
+    font-weight: 700;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.swimming-wrapper button:hover {
+    transform: scale(1.05);
+    transition: all 0.3s ease-in-out;
+    background-color: #3a9dc4;
+}
+
+.swimming-disclaimer {
+    display: flex;
+    flex-direction: column;
+    background-color: #303137;
+    border: 3px solid #196f91;
+    margin-top: 2rem;
+
+    border-radius: 0.5rem;
+    padding: 2rem;
+
+    @media (min-width: 760px) {
+        flex-direction: row;
+        gap: 2rem;
+    }
+}
+
+.swimming-disclaimer .warning {
+    flex: 1;
+}
+.swimming-disclaimer .suits {
+    flex: 1;
+}
+
+.swimming-disclaimer .warning h2 {
+    margin-top: 0;
+}
+
+.swimming-disclaimer .suits h2 {
+    @media (min-width: 760px) {
+        margin-top: 0;
+    }
+}

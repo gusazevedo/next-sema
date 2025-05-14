@@ -3,7 +3,7 @@ import './styles.css';
 
 export default function About() {
   return (
-    <section>
+    <section className='light-zone'>
       <div className="home-content-wrapper about-wrapper">
         <h1 className='dark-text'>Sobre a SEMA</h1>
         <p className="dark-text text">

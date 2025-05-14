@@ -8,6 +8,7 @@ const roboto = Roboto({ subsets: ['latin'], display: 'swap', });
 export const metadata: Metadata = {
   title: "Academia Sema",
   description: "Venha conhecer e comece hoje sua evolução!",
+  viewport: "width=device-width, initial-scale=1.0, viewport-fit=cover",
 };
 
 export default function RootLayout({
@@ -16,7 +17,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="pt-br">
       <body className={`${roboto.className}`}>
         {children}
       </body>
