@@ -1,0 +1,21 @@
+{
+    "title": "Musculação",
+    "paragraphs": [
+        {"id": "1", "text": "A musculação é um tipo de exercício realizado com pesos de diversas cargas, amplitude e tempo de contração, o que faz dela uma atividade física indicada para pessoas de diversas idades e com diferentes objetivos. É diferente do fisiculturismo e levantamento de peso, pois esses são esportes e a musculação é uma modalidade de exercício."},
+        {"id": "2", "text": "A musculação é uma modalidade que sempre está em alta, além de ajudar a queimar gordura antes e após o treino, trabalha os músculos e modela o corpo deixando-o mais firme e bonito."},
+        {"id": "3", "text": "O treinamento com pesos auxilia no emagrecimento, aumenta o gasto calórico diário e estimula o metabolismo. Previne a osteoporose, por estimular a produção de massa óssea. Pode evitar o diabetes, já que o aumento de massa muscular queima mais glicose."},
+        {"id": "4", "text": "Em pessoas idosas, esses exercícios com peso interrompem a perda de mobilidade e a atrofia muscular, diminuindo a pressão arterial e a frequência cardíaca."}
+    ],
+    "subtitle": "Benefícios da Musculação",
+    "benefits": [
+        {"id": "1", "text": "Aumenta e define a massa muscular."},
+        {"id": "2", "text": "Ajuda a rejuvenescer. A partir dos 30 anos, começamos a perder massa muscular; podendo chegar a uma perda de até 30% de massa magra até os 80 anos. Quem faz musculação retarda o processo de envelhecimento."},
+        {"id": "3", "text": "Emagrece. Todo tipo de exercício ajuda na perda de peso, pois em todos há um gasto calórico. Em longo prazo, os exercícios com peso apresentam o importante papel de aumentar a taxa metabólica basal."},
+        {"id": "4", "text": "Melhora o sono e o bem estar. Melhora a postura. A maioria dos casos de dores nas costas está relacionada à fraqueza muscular e à falta de flexibilidade. O trabalho com peso torna os músculos (que sustentam os ossos) mais resistentes."},
+        {"id": "5", "text": "Ajuda a manter nossa força funcional para atividades cotidianas e esportes."},
+        {"id": "6", "text": "Ajuda a aliviar os sintomas de artrite ao fortalecer os músculos que dão suporte às nossas articulações."},
+        {"id": "7", "text": "Aumenta a densidade óssea."},
+        {"id": "8", "text": "Melhora sua autoestima, refletindo positivamente na vida afetiva e social."},
+        {"id": "9", "text": "Atua na prevenção da osteoporose, artrose e diabetes."}
+    ]
+}

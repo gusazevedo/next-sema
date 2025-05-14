@@ -1,0 +1,40 @@
+.content-wrapper {
+    margin: 1rem 0;
+}
+
+.content-wrapper h2 {
+    margin-bottom: 1rem;
+}
+
+.home-content-wrapper {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 3rem 1rem;
+    overflow: hidden;
+}
+
+.text {
+    font-size: 1.1rem;
+    line-height: 1.5;
+}
+
+.light-text {
+    color: #fafafa;
+}
+
+.dark-text {
+    color: #282341;
+}
+
+.blue-text {
+    color: #46b4e6;
+}
+
+.dark-zone {
+    background-color: #191a1e;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

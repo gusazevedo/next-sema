@@ -1,0 +1,28 @@
+{
+    "modailities": [
+        {
+            "name": "musculação",
+            "img": "/figures/musculacao.jpg"
+        },
+        {
+            "name": "natação",
+            "img": "/figures/natacao.jpg"
+        },
+        {
+            "name": "circuito",
+            "img": "/figures/circuito.jpg"
+        },
+        {
+            "name": "hidroginástica",
+            "img": "/figures/hidro.jpg"
+        },
+        {
+            "name": "funcional",
+            "img": "/figures/funcional.jpg"
+        },
+        {
+            "name": "aerobox",
+            "img": "/figures/aerobox.jpg"
+        }
+    ]
+}

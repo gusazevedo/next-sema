@@ -1,0 +1,85 @@
+.about-wrapper h1 {
+    margin-bottom: 1rem;
+}
+
+.about-wrapper h2 {
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.about-connections {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+
+    @media (min-width: 1000px) {
+        flex-direction: row;
+    }
+}
+
+.about-connections .about-connections-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.about-connections-text {
+    margin-top: 1rem;
+    flex: 1;
+}
+
+.about-connections-text h1 {
+    text-align: center;
+    text-wrap: auto;
+
+    @media (min-width: 1000px) {
+        text-align: left;
+    }
+}
+
+.about-connections-text .about-connections-social {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+
+    @media (min-width: 1000px) {
+        justify-content: flex-start;
+    }
+}
+
+.about-connections-social a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.2rem;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    -webkit-text-decoration-color: #46b4e6;
+    -webkit-text-decoration-style: wavy;
+    text-decoration-color: #46b4e6;
+}
+
+.about-connections .about-connections-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    width: 100%;
+    flex: 1;
+}
+
+.about-connections-icons .about-connection-icon {
+    flex: 1;
+    max-width: 180px;
+    max-height: 180px;
+    overflow: hidden;
+    border-radius: 0.5rem;
+}
+
+.about-connection-icon  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
