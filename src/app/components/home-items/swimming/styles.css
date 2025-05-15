@@ -32,11 +32,11 @@
     align-items: center;
     justify-content: center;
     gap: 0.5rem;
+    transition: all 0.3s ease-in-out;
 }
 
 .swimming-wrapper button:hover {
     transform: scale(1.05);
-    transition: all 0.3s ease-in-out;
     background-color: #3a9dc4;
 }
 
