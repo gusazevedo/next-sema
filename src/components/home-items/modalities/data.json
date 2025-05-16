@@ -2,27 +2,27 @@
     "modailities": [
         {
             "name": "musculação",
-            "img": "/figures/musculacao.jpg"
+            "img": "musculacao.jpg"
         },
         {
             "name": "natação",
-            "img": "/figures/natacao.jpg"
+            "img": "natacao.jpg"
         },
         {
             "name": "circuito",
-            "img": "/figures/circuito.jpg"
+            "img": "circuito.jpg"
         },
         {
             "name": "hidroginástica",
-            "img": "/figures/hidro.jpg"
+            "img": "hidro.jpg"
         },
         {
             "name": "funcional",
-            "img": "/figures/funcional.jpg"
+            "img": "funcional.jpg"
         },
         {
             "name": "aerobox",
-            "img": "/figures/aerobox.jpg"
+            "img": "aerobox.jpg"
         }
     ]
 }

@@ -20,7 +20,7 @@ export default function Modalities() {
 function ModalityCard({ title, image }: {title: string; image: string}) {
   return (
     <div className='modality-card'>
-      <img src={image} alt={title} />
+      <img src={`/figures/${image}`} alt={title} />
       <h2>{title}</h2>
     </div>
   );
