@@ -1,3 +1,4 @@
+import Footer from "./components/footer/footer";
 import About from "./components/home-items/about/about";
 import Banner from "./components/home-items/banner/banner";
 import Location from "./components/home-items/location/location";
@@ -12,6 +13,7 @@ export default function Home() {
       <About />
       <Swimming />
       <Location />
+      <Footer />
     </main>
     );
 }

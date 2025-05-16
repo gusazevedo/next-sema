@@ -33,8 +33,20 @@ export default function About() {
           <div className='about-connections-text'>
             <h1 className='dark-text'>A <span className='blue-text'>SEMA</span> sempre conectada com <span className='blue-text'>VOCÊ</span></h1>
             <div className='about-connections-social'>
-              <a href='https://www.instagram.com/academiasema?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==' className='social-item text dark-text'><InstagramLogo size={32} color='#282341'/> academiasema</a>
-              <a className='social-item text dark-text'><WhatsappLogo size={32} color='#282341'/>Whatsapp</a>
+              <a
+                href='https://www.instagram.com/academiasema?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=='
+                target="_blank"
+                rel="noopener noreferrer"
+                className='social-item text dark-text'
+              >
+                <InstagramLogo size={32} color='#282341'/> academiasema</a>
+              <a
+                href='https://wa.me/5511991213789'
+                target="_blank"
+                rel="noopener noreferrer"
+                className='social-item text dark-text'
+                >
+                  <WhatsappLogo size={32} color='#282341'/>Whatsapp</a>
             </div>
           </div>
           <div className='about-connections-icons'>
